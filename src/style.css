@@ -1,0 +1,26 @@
+* {
+      background-color: rgb(46, 44, 42);
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      color: white;
+}
+
+.customRow {
+      padding: 10px;
+}
+
+.customImg {
+      width: 150px;
+      border: 1px solid black;
+}
+
+.customName {
+      font-size: 20px;
+      margin-left: 20px;
+}
+
+.custombtn {
+      display: inline-block;
+      float: right;
+}
